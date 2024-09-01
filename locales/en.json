@@ -1,0 +1,28 @@
+{
+    "debug": "Debug: ",
+    "load_rs": "Resource Started",
+
+    "load_in": "Connected: ",
+    "load_out": "Disconnected: ",
+
+    "user_name": "User: ",
+    "user_usid": "User ID: ",
+    "user_idnt": "User Identifier: ",
+    "char_stid": "State ID: ",
+
+    "athletics": "Athletics",
+    "shooting": "Shooting",
+    "strength": "Strength",
+    "stealth": "Dexterity",
+    "swimming": "Swimming",
+    "driving": "Driving",
+    "flying": "Flying",
+    "farming": "Farming",
+    "cooking": "Cooking",
+    "mechanics": "Mechanics",
+    "crafting": "Crafting",
+    "smithing": "Smithing",
+    "hacking": "Hacking"
+    
+
+}
