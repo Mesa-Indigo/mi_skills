@@ -13,8 +13,8 @@ description 'ox_core script for obtaining licenses'
 
 --[[    dependancies    ]]--
 dependencies { 
-    '/server:7290', '/onesync',
-    'ox_lib', 'ox_target', 'ox_core', 
+    '/server:7290',
+    'ox_lib', 'ox_target', 'ox_core',
     'oxmysql'
 }
 
